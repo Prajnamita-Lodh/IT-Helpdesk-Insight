@@ -29,6 +29,42 @@ In this dashboard, I’ve visualized key metrics to drive efficiency, reduce SLA
 
 ## IT Helpdesk Support Dashboard Output
 
+### Ticket Insight:
+- The IT Helpdesk handled 11,923 tickets in total.
+
+- Out of these, high-priority tickets were 4,571 (38.34%), while medium-priority tickets slightly led with 4,952 (41.53%). Low-priority tickets were 2,400 (20.13%).
+
+- January consistently saw the highest number of tickets in both 2024 and 2025.
+
+- February recorded the lowest ticket volume in both years.
+
+- Q1 was the busiest quarter overall, indicating a strong start in both years.
+
+- In 2024, ticket volume peaked in Q3 and dropped significantly in Q4.
+
+- In 2025, Q1 showed high activity, but here's the catch — we don’t have data beyond June, so any full-year comparison would be incomplete.
+
+#### Bottom line: ticket load is heaviest early in the year, especially with high-priority issues taking up a large share. But the trends shift as the year goes on — and partial data can easily skew the story.
+
+###  Resolution Time & Priorities:
+- Satisfaction rate is 38.34%, calculated based on tickets resolved within 2 days.
+- The overall average resolution time is 2.82 days, reflecting a moderately efficient support process.
+- General enquiry tickets take the longest to resolve, with an average of 3.43 days. The high resolution time for general enquiries is due to a high volume of low-priority tickets.
+- Service outage and maintenance tickets have the shortest resolution time, averaging 2.43 days. The quicker resolution for service outage and maintenance tickets is due to a higher share of high-priority cases.
+- Service outage and maintenance, technical support, and IT support queues handle the most high-priority tickets.
+- The incident ticket category has the highest percentage of high-priority issues, at 43.56%.
+
+- Request, change, and problem ticket categories mostly consist of medium-priority tickets.
+
+#### Bottom line: The team is responsive to critical issues, but improving resolution time for low-priority tickets like general enquiries can enhance overall satisfaction.
+
+### Location Based Analysis:
+- Belgium reported the highest number of tickets, totaling 1,240. This signals a higher demand for support services in the region.
+- Among Belgium's tickets, 41.61% were tagged as medium priority. Indicates recurring issues that require timely, but not urgent, resolution — a sign that processes or tools may need optimization to prevent escalation.
+
+- Austria had the lowest ticket volume at 1,137. While this suggests fewer support needs, it’s important not to overlook quality and efficiency.
+- Interestingly, Austria also had a high percentage of medium-priority tickets. This points to consistent but manageable issues that still need attention to maintain satisfaction.
+
 
 ## Files Included
 ### IT Support tickets .xlsx:
