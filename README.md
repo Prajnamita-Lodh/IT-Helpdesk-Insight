@@ -1,7 +1,7 @@
 # IT-Helpdesk Insight
 An interactive Power BI report analyzing support ticket data. Tracks key metrics like resolution time, satisfaction scores, SLA/TAT adherence, and priority-level performance across regions and channels. Includes drilldowns by country, city, and customer segment to identify areas of delay or dissatisfaction.
 
-## [View here](https://app.powerbi.com/view?r=eyJrIjoiYTM0MGE4NjAtMzUxZS00MTZiLTg5YzMtNjM3ZDdhZjU1NDg5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+## [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTM0MGE4NjAtMzUxZS00MTZiLTg5YzMtNjM3ZDdhZjU1NDg5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 <img width="720" height="1280" alt="Image" src="https://github.com/user-attachments/assets/997e7648-1fd9-46d4-bde6-56a2dc3d0232" />
 
 ---
