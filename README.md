@@ -217,3 +217,18 @@ To develop a dynamic Power BI report on IT Helpdesh Support dashboard, I created
         )
 
 
+
+
+
+## Snapshot of Ticket Insight:
+
+<img width="2000" height="1156" alt="Image" src="https://github.com/user-attachments/assets/4220cda5-a311-45d6-8128-4036a5fdacb8" />
+
+## Snapshot of Resolution Time & Priorities:
+
+<img width="2000" height="1156" alt="Image" src="https://github.com/user-attachments/assets/ba0ec5a3-cd83-4452-9936-51f0a566d035" />
+
+## Snapshot of Location-Based Analysis:
+
+<img width="2000" height="1156" alt="Image" src="https://github.com/user-attachments/assets/10782fcd-3b8a-41bd-a27e-decbbdc0ea89" />
+
